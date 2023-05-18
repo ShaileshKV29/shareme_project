@@ -15,6 +15,6 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["**/*.ts", "**/*.tsx"],
+  "include": ["**/*.ts", "**/*.tsx", "schemas/user.ts", "schemas/user.ts", "schemas/user.ts", "schemas/save.ts", "schemas/postedBy.ts", "schemas/pin.ts", "schemas/index.ts", "schemas/content.ts", "schemas/comment.ts"],
   "exclude": ["node_modules"]
 }

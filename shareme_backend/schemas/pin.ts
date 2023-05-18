@@ -1,5 +1,5 @@
 export default {
-    nane: "pin",
+    name: "pin",
     title: "Pin",
     type: "document",
     fields: [
@@ -39,7 +39,7 @@ export default {
         {
             name: "postedBy",
             title: "PostedBy",
-            type: 'postedBy'
+            type: 'postedBy',
         },
         {
             name: "save",
