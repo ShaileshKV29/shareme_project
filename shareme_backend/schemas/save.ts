@@ -1,5 +1,5 @@
 export default {
-    nane: "save",
+    name: "save",
     title: "Save",
     type: "document",
     fields: [

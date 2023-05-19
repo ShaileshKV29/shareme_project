@@ -1,5 +1,5 @@
 export default {
-    nane: "comment",
+    name: "comment",
     title: "Comment",
     type: "document",
     fields: [
